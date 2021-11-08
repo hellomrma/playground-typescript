@@ -8,6 +8,7 @@ module.exports = {
       { text: 'github@hellomrma', link: 'https://github.com/hellomrma' },
       { text: 'Typescript 공식', link: 'https://www.typescriptlang.org/' },
     ],
-    sidebar: 'auto'
+    sidebar: 'auto',
+    base: '/playground-typescript/',
   }
 }
