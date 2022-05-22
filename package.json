@@ -2,7 +2,7 @@
   "name": "playground-react",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/hellomrma/playground-react.git",
+  "repository": "https://github.com/hellomrma/playground-typescript.git",
   "author": "hellomrma <hellomrma@gmail.com>",
   "scripts": {
     "docs:dev": "vuepress dev --port 8000",
